@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Andre Cain
 - 👀 I like Computers, already started programming back in school as my hobby.
 - 🌱 I've tried many different programming languages like C/C++, C#, Java, JavaScript, Python and Go.
 - 💞️ I've some experience in both of Full Stack, Machine Learning and Data Science.
